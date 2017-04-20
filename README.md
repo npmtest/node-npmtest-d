@@ -1,4 +1,7 @@
-# test coverage for  [d (v1.0.0)](https://github.com/medikoo/d#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-d.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-d) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-d.svg)](https://travis-ci.org/npmtest/node-npmtest-d)
+# npmtest-d
+
+#### basic test coverage for  [d (v1.0.0)](https://github.com/medikoo/d#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-d.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-d) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-d.svg)](https://travis-ci.org/npmtest/node-npmtest-d)
+
 #### Property descriptor factory
 
 [![NPM](https://nodei.co/npm/d.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/d)
